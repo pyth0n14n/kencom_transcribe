@@ -21,7 +21,7 @@ date,count
 2026-05-27,9000
 ```
 
-2. Huaweiヘルスからの
+2. HuaweiヘルスからのCSV化は、[Qiita記事](https://qiita.com/vodka_pythonian/items/f3103efc7a17ce454f2b)を参照。
 
 ### 2. Chromeをリモートデバッグモードで起動する
 
